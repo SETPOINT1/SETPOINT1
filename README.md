@@ -79,16 +79,5 @@ I am a **Computer Engineering** student at the **Department of Computer Engineer
 ## Streak Stats
 
 <br/>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img width="86%" src="https://github-readme-streak-stats.herokuapp.com/?user=SETPOINT1&theme=tokyonight&hide_border=true&background=0D1117" />
-</a>
-
-<br/>
 <img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=SETPOINT1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=SETPOINT1&theme=tokyonight&no-frame=true&column=7" />
-</a>
-
-</div>
