@@ -17,6 +17,7 @@
       </a>
     </td>
     <td width="30%" align="center">
+      <img src="/img/F6BB7673-96CC-4067-BFDC-592D7199F5ED.jpg" width="150" style="border-radius: 50%;" alt="Profile Pic">
     </td>
   </tr>
 </table>
