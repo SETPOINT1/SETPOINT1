@@ -82,8 +82,8 @@
 <h3>GitHub Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SETPOINT1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SETPOINT1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160em" src="https://github-readme-stats-beta-eight-13.vercel.app/api?username=SETPOINT1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160em" src="https://github-readme-stats-beta-eight-13.vercel.app/api/top-langs/?username=SETPOINT1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 <br/>
