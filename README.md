@@ -24,6 +24,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31y24m6xjas6gg2c5kage2ytfr6u&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31y24m6xjas6gg2c5kage2ytfr6u&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
+  </a>
+</p>
+
 ### Tech Stack
 
 <div align="center">
