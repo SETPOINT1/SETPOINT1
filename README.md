@@ -15,6 +15,9 @@
       <a href="mailto:chonchanan.jit@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
       </a>
+      <a href="https://www.kaggle.com/chonchanan">
+        <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+      </a>
     </td>
     <td width="30%" align="center">
       <img src="/img/F6BB7673-96CC-4067-BFDC-592D7199F5ED.jpg" width="150" style="border-radius: 50%;" alt="Profile Pic">
@@ -37,7 +40,7 @@
       <h3 align="center">My status</h3>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student" alt="Typing SVG" />
-        
+        <img src="img/CEO_Photo.jpg" alt="Pun" />
       </a>
     </td>
   </tr>
@@ -55,13 +58,6 @@
         </a>
       </td>
       
-      <td width="50%" align="center" valign="center">
-        <h3>👨‍💻 Dev Status</h3>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Building+Uni-Mart+%26+InvestCLI;Focusing+on+AI+%26+Stock+Trading;Always+Learning+New+Tech..." alt="Typing SVG" />
-        </a>
-      </td>
-    </tr>
   </table>
 
 </div>
