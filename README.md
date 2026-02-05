@@ -24,11 +24,50 @@
 
 ---
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31y24m6xjas6gg2c5kage2ytfr6u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31y24m6xjas6gg2c5kage2ytfr6u&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313m6zr5rs76qrhwkztelioxgd6y&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313m6zr5rs76qrhwkztelioxgd6y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true">
+        </a>
+      </p>
+    </td>
+    <td>
+      <h3 align="center">My status</h3>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student" alt="Typing SVG" />
+        
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br/>
+  
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="center">
+        <h3>🎵 Now Playing</h3>
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31y24m6xjas6gg2c5kage2ytfr6u&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31y24m6xjas6gg2c5kage2ytfr6u&cover_image=true&theme=novatony&show_offline=true&background_color=0D1117&interchange=true&bar_color=53b14f&bar_color_cover=true&t=1" alt="Spotify Now Playing" width="100%" />
+        </a>
+      </td>
+      
+      <td width="50%" align="center" valign="center">
+        <h3>👨‍💻 Dev Status</h3>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Building+Uni-Mart+%26+InvestCLI;Focusing+on+AI+%26+Stock+Trading;Always+Learning+New+Tech..." alt="Typing SVG" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+---
 
 ### Tech Stack
 
