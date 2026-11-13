@@ -25,8 +25,8 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <p align="center">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31y24m6xjas6gg2c5kage2ytfr6u&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31y24m6xjas6gg2c5kage2ytfr6u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Spotify Now Playing">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313m6zr5rs76qrhwkztelioxgd6y&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313m6zr5rs76qrhwkztelioxgd6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Spotify Now Playing">
         </a>
       </p>
     </td>
